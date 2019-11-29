@@ -36,6 +36,9 @@ public class ExemploOrdenador {
         CPU cpu = new CPU(velocidade, memoria);
         Ordenador ordenador = new Ordenador(rato, pantalla, cpu);
         ordenador.amosar();
+        
+        
+        
 
     }
 
